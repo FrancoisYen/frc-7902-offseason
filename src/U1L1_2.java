@@ -1,5 +1,5 @@
 /*
- * FRC 7902 FireBirds Programming Division Off-Season Training
+ * FRC 7902 Markham FireBirds Programming Division Off-Season Training
  * Unit 1, Lesson 1, Exercise 2
  * François Yen
  * 12.07.25
