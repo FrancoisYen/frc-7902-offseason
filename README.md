@@ -1,18 +1,10 @@
-## Getting Started
+## FRC 7902: Markham FireBirds Programming Divison Off-Season Training, Season 2025-2026, François Yen
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- `bin` contains compiled binaries
+- `src` contains sources
+- `lib` contains dependencies
 
-## Folder Structure
+- File structure: /src/Ua/Lb/UaLb_c.java
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- File naming: `/src/Ua/Lb/UaLb_c.java`, where `a` is the unit number, `b` is the lesson number, `c` is the exercise number.
+> e.g. `/src/U1/L2/U1L1_1.java` is the solution for Unit 1, Lesson 1, Exercise 1

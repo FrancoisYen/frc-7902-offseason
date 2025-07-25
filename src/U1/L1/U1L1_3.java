@@ -4,6 +4,7 @@
  * François Yen
  * 12.07.25
  */
+package U1.L1;
 
 import java.util.Scanner;
 

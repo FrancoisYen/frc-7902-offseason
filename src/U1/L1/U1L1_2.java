@@ -5,6 +5,8 @@
  * 12.07.25
  */
 
+package U1.L1;
+
 public class U1L1_2 {
     public static void main() {
         for (int i = 5; i < 100; i += 3) {

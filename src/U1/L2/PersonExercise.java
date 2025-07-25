@@ -5,7 +5,7 @@
  * 22.07.25
  */
 
-package U1L2;
+package U1.L2;
 
 public class PersonExercise {
     String name;

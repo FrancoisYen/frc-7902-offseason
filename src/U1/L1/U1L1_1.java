@@ -5,6 +5,8 @@
  * 12.07.25
  */
 
+package U1.L1;
+
 import java.util.Scanner;
 
 public class U1L1_1 {

@@ -5,7 +5,7 @@
  * 22.07.25
  */
 
-package U1L2;
+package U1.L2;
 
 public class Main {
     static void relationship(PersonExercise person1, PersonExercise person2) {
