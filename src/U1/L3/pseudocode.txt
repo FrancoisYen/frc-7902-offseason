@@ -1,0 +1,20 @@
+class Product:
+    String name;
+    int quality;
+    checkQuality:
+        if quality >= 5:
+            return true;
+        else:
+            return false;
+
+void Main
+    Product fruits (quality = 7);
+    Product vegetables (quality = 3);
+    Product eggs (quality = 8);
+    Product meat (quality = 4);
+    Product bread (quality = 4);
+    Array Products [5] = {fruits, vegetables, eggs, meat, bread};
+    Array goodQuality [];
+    for each Products:
+        if checkQuality:
+            addTo goodQuality;
