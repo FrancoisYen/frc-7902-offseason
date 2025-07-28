@@ -7,8 +7,8 @@ public class Product {
         this.quality = quality;
         this.name = name;
     }
-    public boolean checkQuality(Product product) {
-        if (product.quality >= 5) {
+    public boolean checkQuality() {
+        if (quality >= 5) {
             return true;
         } else {
             return false;

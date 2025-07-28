@@ -10,7 +10,7 @@ package U1.L1;
 import java.util.Scanner;
 
 public class U1L1_1 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner m_scanner = new Scanner(System.in);
         float total = 0;
         System.out.println("\nWelcome to Chez François, the fruiterer par excellence of Toronto!");

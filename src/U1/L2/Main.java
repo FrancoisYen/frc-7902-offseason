@@ -21,7 +21,7 @@ public class Main {
         }
     }
 
-    public static void main() {
+    public static void main(String[] args) {
         PersonExercise francois = new PersonExercise("François", 18);
         PersonExercise amber = new PersonExercise("Amber", 23);
         PersonExercise tanner = new PersonExercise("Tanner", 16);

@@ -9,7 +9,7 @@ package U1.L1;
 import java.util.Scanner;
 
 public class U1L1_3 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner m_scanner = new Scanner(System.in);
         System.out.print("\nYour string > ");
         String string = m_scanner.nextLine();

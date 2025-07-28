@@ -12,7 +12,7 @@ public class Main {
         Product[] products = {fruits, vegetables, eggs, meat, bread};
         ArrayList<Product> goodQuality = new ArrayList<>();
         for (Product product : products) {
-            if (product.checkQuality(product)) {
+            if (product.checkQuality()) {
                 goodQuality.add(product);
             }
         }
